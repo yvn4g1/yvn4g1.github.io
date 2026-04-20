@@ -1,3 +1,6 @@
+このアプリの動作デモはこちら
+https://training-yvn4g1.web.app/
+
 # training_log
 
 A new Flutter project.
